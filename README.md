@@ -2,8 +2,8 @@
 
 Para conclusão do curso "Profissão: Cientista de Dados" foi desenvolvido o projeto salvo neste repositório. 
 
-## Tema:
+### Tema:
 
-## Introdução:
+### Introdução:
 
-## Base de Dados:
+### Base de Dados:
